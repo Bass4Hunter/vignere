@@ -152,7 +152,7 @@ public class vignere {
                 ite++;
             }
             try {
-                BufferedReader br = new BufferedReader(new FileReader("SC/vignere/ASCCI_191.txt"));
+                BufferedReader br = new BufferedReader(new FileReader("vignere/ASCCI_191.txt"));
                 int i = 0 ;
                 String strLine = "";
                 while (strLine != null){
